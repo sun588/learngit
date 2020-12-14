@@ -7,4 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 use --no-ff dev
 working
-
+另一个小伙伴修改了点东西
